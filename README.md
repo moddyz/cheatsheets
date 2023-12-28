@@ -1,2 +1,3 @@
 # cheatsheets
-Cheatsheets for various tools
+
+Cheatsheets for various tools used for development
