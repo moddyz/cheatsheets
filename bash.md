@@ -22,7 +22,7 @@ Ctrl + n
 ```
 
 Editing:
-```
+```bash
 # Delete word after cursor
 Alt + d
 
@@ -31,7 +31,7 @@ Ctrl + l
 ```
 
 Search command history:
-```
+```bash
 # Search previous commands.  
 # Running it again while searching will jump to the previous matching result
 Ctrl + r
