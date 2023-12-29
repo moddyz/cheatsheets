@@ -30,4 +30,7 @@ Ctrl+b c
 
 # Rename window
 Ctrl+b ,
+
+# Jump to window #
+Ctrl+b <NUMBER>
 ```
