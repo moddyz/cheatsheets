@@ -1,7 +1,7 @@
 Write output to log file:
 ```
-set logging on
 set logging file /tmp/gdb.txt
+set logging on
 ```
 
 Turn off pagination:
